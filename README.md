@@ -1,2 +1,2 @@
 # constituent-analytics
-Analysis, modeling, and visualization methods for nonprofit CRM data
+Analysis, modeling, and visualization methods for nonprofit CRM data.
